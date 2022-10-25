@@ -1,0 +1,10 @@
+#include <iostream>
+using namespace std;
+ 
+int main()
+{
+    	int arr[100];
+	int p=arr[3435];
+	cout<<p<<endl;
+	return 0;
+}

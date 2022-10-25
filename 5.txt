@@ -1,0 +1,11 @@
+#include <iostream>
+using namespace std;
+ 
+int main()
+{
+    	int *arr[100];
+
+	int p=*arr;
+	cout<<**p<<endl;
+	return 0;
+}
